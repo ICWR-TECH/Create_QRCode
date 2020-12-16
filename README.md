@@ -5,4 +5,4 @@ Cara menggunakan:
 <b>python3 create.py <i>"STRING" "200x200" "nama_file"</i></b>
 <br><br><br>
 
-<center>API dari http://api.qrserver.com/</center>
+API dari http://api.qrserver.com/
